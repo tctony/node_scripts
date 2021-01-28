@@ -1,0 +1,24 @@
+{
+  "name": "node_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "timestamp": "node timestamp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tctony/node_scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tctony/node_scripts/issues"
+  },
+  "homepage": "https://github.com/tctony/node_scripts#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.32"
+  }
+}
